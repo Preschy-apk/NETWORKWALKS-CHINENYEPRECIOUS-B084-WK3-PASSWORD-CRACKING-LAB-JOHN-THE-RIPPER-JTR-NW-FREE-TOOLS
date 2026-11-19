@@ -61,8 +61,15 @@ All activities were conducted for educational purposes within an authorised trai
 Password-cracking techniques should only be used on documents you own or have explicit permission to assess.
 
 ## 7. Evidence and Screenshots
+![PDF Password Cracking](screenshots/Screenshot%202026-11-19%20163205.png)
+![Password Hash Generation](screenshots/Screenshot%202026-11-19%20163410.png)
+![John the Ripper Password Cracking](screenshots/Screenshot%202026-11-19%20170437.png)
+![Password Cracking Results](screenshots/Screenshot%202026-11-19%20170516.png)
+![Final PDF Password Cracking Verification](screenshots/Screenshot%202026-11-19%20170739.png)
+![Additional Password Cracking Process](screenshots/Screenshot%202026-11-19%20170728.png)
+![Additional PDF Password Cracking Evidence](screenshots/Screenshot%202026-11-19%20173819.png)
+![Password Cracking Process](screenshots/Screenshot%202026-11-19%20171707.png)
 
-Screenshots
 
 ## 8. Conclusion
 
